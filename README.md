@@ -1,69 +1,17 @@
-# QuickCart - A simple eCommerce website
+QuickCart is a modern, full-stack e-commerce web application built using Next.js, focused on performance, scalability, and secure authentication. It uses a powerful event-driven backend and a NoSQL database for efficient data handling.
 
-QuickCart is an open-source **Next.js eCommerce frontend** project.  
-It provides a modern, fast and customizable shopping UI.  
-This repo is **frontend only** – contributors can improve the design, add new pages, animations and more.
+🚀 Tech Stack
 
----
+Framework: Next.js (App Router)
 
-## Features
+Authentication: Clerk
 
--   Built with **Next.js + Tailwind CSS**
--   Responsive design
--   Reusable components
--   Customizable layouts and colors
--   Open for contributions (UI/UX, animations, themes, layouts etc.)
+Database: MongoDB
 
----
+Hosting: Hostinger
 
-## Getting Started
+Background Jobs & Events: Inngest
 
-1. Clone the repo
+Language: JavaScript / TypeScript
 
-    ```bash
-    git clone https://github.com/GreatStackDev/QuickCart.git
-    cd QuickCart
-    ```
-
-2. Install dependencies
-
-    ```bash
-    npm install
-    ```
-
-3. Run locally
-
-    ```bash
-    npm run dev
-    ```
-
----
-
-## Contributing
-
-We welcome all kinds of contributions! You can:
-
-- Create new pages
-- Improve layouts
-- Add animations and transitions
-- Enhance responsiveness
-- Refactor components
-- Suggest new UI/UX ideas
-- Add themes or color variations
-- Introduce accessibility improvements
-- Add filtering/search features
-- Improve documentation
-
-Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
-
----
-
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🌟 Contributors
-
-Thanks to everyone who contributes to **QuickCart**!
+Styling: Tailwind CSS 
